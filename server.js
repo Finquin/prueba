@@ -24,4 +24,6 @@ app.get('/productosRandom',async (req, res) => {
     res.send(produdotosRandom)
 
 })
+
+
 server.on('error', err => console.log(err))

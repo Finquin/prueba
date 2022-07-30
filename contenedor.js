@@ -34,7 +34,7 @@ class Contenedor {
                 console.log(producto)
                 return producto
             }else {
-                console.log("sin resultados")
+                console.log("sin resultados ")
             }
         }catch (error){
             console.log(error)
