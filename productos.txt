@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "Pelucas1",
+    "precio": 100,
+    "cantidad": 2,
+    "id": 1
+  },
+  {
+    "nombre": "Pelucas2",
+    "precio": 100,
+    "cantidad": 2,
+    "id": 2
+  },
+  {
+    "nombre": "Pelucas3",
+    "precio": 100,
+    "cantidad": 2,
+    "id": 3
+  }
+]
